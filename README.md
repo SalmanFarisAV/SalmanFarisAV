@@ -1,16 +1,25 @@
-## Hi there 👋
+# SALMAN FARIS A V
 
-<!--
-**SalmanFarisAV/SalmanFarisAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Development Engineer 
 
-Here are some ideas to get you started:
+Welcome to my profile! I am a software builder, full-stack developer, and hackathon enthusiast specializing in mobile applications, AI integration, and robust web architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- **Languages:** Python, C, Java, JavaScript, Dart
+- **Frameworks:** Flutter, React
+- **Specializations:** Mobile App Development, Full-Stack Architecture, UI/UX Implementation
+
+---
+
+## 📁 Key Projects
+- **[Galaxy S24 Ultra Skin](https://github.com):** Custom Samsung Galaxy S24 skin optimized for Android Emulator.
+- **[Emergency Response Network](https://github.com):** A Dart-based responsive critical communication system.
+- **[Personal Portfolio Website](https://salmanfaris.dev):** My digital footprint and software developer blog.
+
+---
+
+## 🌐 Connect with Me
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/salman-faris-av)
+- **Website:** [salmanfaris.dev](https://salmanfaris.dev)
